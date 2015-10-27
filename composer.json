@@ -6,13 +6,18 @@
     "type": "yii2-extension",
     "license": "MIT",
     "support": {
-        "issues": "https://github.com/kop/yii2-scroll-pager/issues",
-        "source": "https://github.com/kop/yii2-scroll-pager"
+        "issues": "https://github.com/obregonco/yii2-scroll-pager/issues",
+        "source": "https://github.com/obregonco/yii2-scroll-pager"
     },
     "authors": [
         {
             "name": "Ivan Koptiev",
             "email": "ivan.koptiev@codex.systems",
+            "role": "Developer"
+        },
+        {
+            "name": "Ricardo Obregón",
+            "email": "robregonm@gmail.com",
             "role": "Developer"
         }
     ],
@@ -26,7 +31,7 @@
 	},
     "autoload": {
         "psr-4": {
-            "kop\\y2sp\\": ""
+            "obregonco\\y2sp\\": ""
         }
     }
 }
